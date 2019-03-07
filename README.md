@@ -7,7 +7,7 @@
 
 - This repository is require the upyun sdk : https://github.com/upyun/php-sdk, use by  'composer require upyun/sdk'.
 
-- /config/UEditorUpload.php,/src/Uploader/Upload.php,/src/Uploader/UploadUpyun.php is modify by me, the other files are base on laravel-u-editor.
+- /config/UEditorUpload.php,/src/Uploader/Upload.php,/src/Uploader/UploadUpyun.php are modify by me, the other files are base on laravel-u-editor.
 
 
 
